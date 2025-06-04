@@ -84,7 +84,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:2
 
 #CS1 (720p)
 
-#EXTINF:-1 tvg-id="アクションチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="CS1 (720p)",アクションチャンネル (720p Willfon)
+#EXTINF:-1 tvg-id="アクションチャンネル.jp" tvg-logo="https://www.lyngsat.com/logo/tv/aa/action-channel-jp.svg" group-title="CS1 (720p)",アクションチャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="FOX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dlife_logo.svg/640px-Dlife_logo.svg.png" group-title="CS1 (720p)",Dlife (720p Willfon)
